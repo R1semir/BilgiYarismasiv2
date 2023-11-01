@@ -1,0 +1,11 @@
+C:\Users\legen\source\repos\Oyuınlar\Oyuınlar\bin\Debug\Oyuınlar.exe.config
+C:\Users\legen\source\repos\Oyuınlar\Oyuınlar\bin\Debug\Oyuınlar.exe
+C:\Users\legen\source\repos\Oyuınlar\Oyuınlar\bin\Debug\Oyuınlar.pdb
+C:\Users\legen\source\repos\Oyuınlar\Oyuınlar\obj\Debug\Oyuınlar.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\Oyuınlar\Oyuınlar\obj\Debug\Oyuınlar.Form1.resources
+C:\Users\legen\source\repos\Oyuınlar\Oyuınlar\obj\Debug\Oyuınlar.Form2.resources
+C:\Users\legen\source\repos\Oyuınlar\Oyuınlar\obj\Debug\Oyuınlar.Properties.Resources.resources
+C:\Users\legen\source\repos\Oyuınlar\Oyuınlar\obj\Debug\Oyuınlar.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\Oyuınlar\Oyuınlar\obj\Debug\Oyuınlar.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\Oyuınlar\Oyuınlar\obj\Debug\Oyuınlar.exe
+C:\Users\legen\source\repos\Oyuınlar\Oyuınlar\obj\Debug\Oyuınlar.pdb
